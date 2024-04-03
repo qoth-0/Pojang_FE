@@ -45,12 +45,12 @@
 >  ![intellijidea](https://img.shields.io/badge/IntelliJidea-000000.svg?&style=for-the-badge&logo=intellijidea&logoColor=white)
 <br/>
 
-## 📍프론트엔드 아키텍처
+# 📍프론트엔드 아키텍처
 ![image](https://github.com/qoth-0/Pojang_FE/assets/112849147/f5780c2c-7047-4be0-93aa-b41bb4ccff1b)
 
 
 <details>
-<summary><h1>📈아키텍처 상세문서</h1></summary>
+<summary><h2>📈아키텍처 상세문서</h2></summary>
 <div markdown="1">
 ### 1. 개요
   
