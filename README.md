@@ -26,7 +26,7 @@
 <br/>
 
 # 💪 기술 스택
-> ## 🛠 개발환경
+## 🛠 개발환경
 > 
 >  ![Java11](https://img.shields.io/badge/Java11-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
 >  ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F.svg?&style=for-the-badge&logo=SpringBoot&logoColor=white)
@@ -41,7 +41,7 @@
 >  ![amazoneks](https://img.shields.io/badge/amazoneks-FF9900.svg?&style=for-the-badge&logo=amazoneks&logoColor=white)
 >  ![githubactions](https://img.shields.io/badge/githubactions-2088FF.svg?&style=for-the-badge&logo=githubactions&logoColor=white)
 > 
->## 🔊 협업 툴
+## 🔊 협업 툴
 >  ![github](https://img.shields.io/badge/Github-181717.svg?&style=for-the-badge&logo=github&logoColor=white)
 >  ![Notion](https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=Notion&logoColor=white)
 >  ![Slack](https://img.shields.io/badge/Slack-4A154B.svg?&style=for-the-badge&logo=Slack&logoColor=white)
